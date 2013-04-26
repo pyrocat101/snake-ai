@@ -1,0 +1,8 @@
+.wrapper {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.main_canvas {
+  border: 1px solid;
+}
